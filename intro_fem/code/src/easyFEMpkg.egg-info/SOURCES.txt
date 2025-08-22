@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/easyFEMpkg/assemble.py
+src/easyFEMpkg/geometry.py
+src/easyFEMpkg/main.py
+src/easyFEMpkg/mesh.py
+src/easyFEMpkg/plotting.py
+src/easyFEMpkg.egg-info/PKG-INFO
+src/easyFEMpkg.egg-info/SOURCES.txt
+src/easyFEMpkg.egg-info/dependency_links.txt
+src/easyFEMpkg.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+meshpy      # optional; install if you want Triangle-based meshing
+meshio      # optional; only if you later switch to pygmsh/gmsh
