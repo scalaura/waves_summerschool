@@ -12,8 +12,10 @@ python scripts/run_demo.py  # runs with default example (g(x,y)=x+y, coeffs=0)
 ## Running the code with colab to avoid installation in your machine 
 
 1) Open the jupyter notebook WavesSummerSchool_Helmholtz.ipynb on colab
+   
    __Lecture 2:__
    [https://colab.research.google.com/drive/11vBvBOsGyKMMxNm5lFx8NzwDV-GpRlBA?usp=sharing](https://colab.research.google.com/drive/11vBvBOsGyKMMxNm5lFx8NzwDV-GpRlBA?usp=sharing)
+   
    __Lecture 3:__
    [https://colab.research.google.com/drive/1-crJghr60I6i52noBVCYAMrPcC18_fyT?usp=sharing](https://colab.research.google.com/drive/1-crJghr60I6i52noBVCYAMrPcC18_fyT?usp=sharing)
 
