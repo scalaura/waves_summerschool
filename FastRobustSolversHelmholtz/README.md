@@ -1,4 +1,4 @@
-# waves_summerschool
+# Fast and robust solvers for the Helmholtz problem
 
 The lectures are based on the lectures given at the Computational Fluid Dynamics course of the Burgerscentre (Chapter 3, 4, and 5). The following links may be helpful for the participants:
 
