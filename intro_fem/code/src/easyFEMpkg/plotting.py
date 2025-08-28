@@ -109,4 +109,11 @@ def trisurf_side_by_side(p, t, z1, z2, titles=("Field 1","Field 2")):
     plt.show()
 
 
-    
+def draw_inner_box(ax, inner_box, **line_kw):
+    xi, xa, yi, ya = inner_box
+    xs = [xi, xa, xa, xi, xi]
+    ys = [yi, yi, ya, ya, yi]
+    default = dict(color='k', linewidth=1.2, linestyle='--', alpha=0.9)
+    default.update(line_kw)
+    ax.plot(xs, ys, **default)
+    return ax
