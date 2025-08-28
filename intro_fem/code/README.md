@@ -17,7 +17,11 @@ python scripts/run_demo.py  # runs with default example (g(x,y)=x+y, coeffs=0)
    [https://colab.research.google.com/drive/11vBvBOsGyKMMxNm5lFx8NzwDV-GpRlBA?usp=sharing](https://colab.research.google.com/drive/11vBvBOsGyKMMxNm5lFx8NzwDV-GpRlBA?usp=sharing)
    
    __Lecture 3:__
-   [https://colab.research.google.com/drive/1-crJghr60I6i52noBVCYAMrPcC18_fyT?usp=sharing](https://colab.research.google.com/drive/1-crJghr60I6i52noBVCYAMrPcC18_fyT?usp=sharing)
+   https://colab.research.google.com/drive/1gx3iYMTVQFZza7heQCTFEO1Swj0HAOEi?usp=sharing
+
+__Extra for Lecture 3 (adventurers only):__
+
+https://colab.research.google.com/drive/1gx3iYMTVQFZza7heQCTFEO1Swj0HAOEi?usp=sharing
 
 3) Run the very first cell that installs the package.
 4) Click Runtime → Run all.
